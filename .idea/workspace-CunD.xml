@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aeb4e188-cb47-4c5d-9ce4-b49bb0906223" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RbbBgbFQNt0lGE7iXyq6ROOsA5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Aula" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeb4e188-cb47-4c5d-9ce4-b49bb0906223" name="Default Changelist" comment="" />
+      <created>1569938608175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569938608175</updated>
+      <workItem from="1569938611218" duration="645000" />
+      <workItem from="1570030217881" duration="4060000" />
+      <workItem from="1570092526972" duration="8090000" />
+      <workItem from="1570174048689" duration="5842000" />
+      <workItem from="1570189738069" duration="385000" />
+      <workItem from="1570203031398" duration="53000" />
+      <workItem from="1570203188938" duration="1089000" />
+      <workItem from="1570441307717" duration="5884000" />
+      <workItem from="1570521000395" duration="4884000" />
+      <workItem from="1570530102472" duration="5300000" />
+      <workItem from="1570633848637" duration="3624000" />
+      <workItem from="1570717828021" duration="91000" />
+      <workItem from="1570791012213" duration="1580000" />
+      <workItem from="1570803766113" duration="3143000" />
+      <workItem from="1570807053552" duration="2313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1570807587896">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1570807587896" />
+    <state x="618" y="320" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1570803769836">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="618" y="320" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1570803769836" />
+    <state x="549" y="186" key="FileChooserDialogImpl" timestamp="1570036615806">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1570036615806" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1570809368289">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1570809368289" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1570809368289">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1570809368289" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1570809368289">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1570809368289" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1570809368289">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1570809368289" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1570639201502">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1570639201502" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1570639201502">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1570639201502" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1570639201502">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1570639201502" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1570639201502">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1570639201502" />
+    <state x="349" y="174" key="IDE.errors.dialog" timestamp="1570037321500">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="174" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1570037321500" />
+    <state x="261" y="74" key="SettingsEditor" timestamp="1569938850497">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="261" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1569938850497" />
+    <state x="465" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1570807053243">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="255" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1570807053243" />
+    <state x="463" y="196" width="738" height="542" key="find.popup" timestamp="1570634475563">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="463" y="196" width="738" height="542" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1570634475563" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="escoles[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
